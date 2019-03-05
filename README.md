@@ -7,7 +7,7 @@ Users can lookm for their lost item in this app and reduce their time making unn
 I deleted the part with my mySQL username and password. Instead it saids "USERNAME HERE" and "PASSWORD HERE", so please enter yours. For the google maps api key, enter your key where it saids "KEY HERE" 
 
 
-Language and Tools Used
+Language and Tools Used:
 PHP
 mySQL
 
@@ -19,4 +19,6 @@ foundinfo.html is where shops and restaurants would register the lost items. It 
 
 lostinfo.html is where users would look for their lost items. It looks like this
 ![alt text](https://github.com/rastaman7/php-LostAndFound/blob/master/images/searchPage.png)
+
+There are more images that might help you understand more about this project in the image folder.
 
