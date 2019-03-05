@@ -1,0 +1,38 @@
+place {
+  margin: 10px auto;
+  width:150px;
+}
+
+.button {
+    background-color: #4DAE4F;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 8px 8px 8px 8px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    width: 80px;
+}
+
+.button:hover {
+    background-color: #118b47;
+    color: white;
+}
+  /* Always set the map height explicitly to define the size of the div
+   * element that contains the map. */
+  #map {
+    height: 360px;
+    width: 60%;
+  }
+  /* Optional: Makes the sample page fill the window. */
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
